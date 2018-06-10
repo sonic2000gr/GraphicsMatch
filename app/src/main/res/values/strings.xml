@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Graphics Match</string>
+    <string name="score">Score:</string>
+    <string name="play">Spin</string>
+</resources>
